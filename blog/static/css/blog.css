@@ -1,4 +1,7 @@
- h1 a {
+  body {
+        padding-left: 15px;
+    }
+  h1 a {
         color: #FCA205;
         font-family: 'Lobster';
     }
@@ -14,6 +17,7 @@
         text-decoration: none;
     }
 
+  
     .content {
         margin-left: 40px;
     }

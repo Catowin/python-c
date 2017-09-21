@@ -1,19 +1,19 @@
   body {
-        padding-left: 15px;
+        padding-left: 0px;
     }
   h1 a {
-        color: #FCA205;
-        font-family: 'Lobster';
+        color: #D576F5;
+        font-family: 'Wendy One';
     }
   .page-header {
-        background-color: #ff9400;
+        background-color: #D576F5;
         margin-top: 0;
-        padding: 20px 20px 20px 40px;
+        padding: 20px 20px 0px 300px;
     }
 
     .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-        color: #ffffff;
-        font-size: 36pt;
+        color: #F7F4D0;
+        font-size: 42pt;
         text-decoration: none;
     }
 
